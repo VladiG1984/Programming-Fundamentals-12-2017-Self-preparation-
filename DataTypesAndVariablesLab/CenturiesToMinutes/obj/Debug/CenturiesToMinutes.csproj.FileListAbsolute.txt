@@ -1,0 +1,7 @@
+D:\IT обучение\SoftUni\02_Programming Fundamentals\GitHub\Programming Fundamentals (Self-Prep)\DataTypesAndVariablesLab\CenturiesToMinutes\bin\Debug\CenturiesToMinutes.exe.config
+D:\IT обучение\SoftUni\02_Programming Fundamentals\GitHub\Programming Fundamentals (Self-Prep)\DataTypesAndVariablesLab\CenturiesToMinutes\bin\Debug\CenturiesToMinutes.exe
+D:\IT обучение\SoftUni\02_Programming Fundamentals\GitHub\Programming Fundamentals (Self-Prep)\DataTypesAndVariablesLab\CenturiesToMinutes\bin\Debug\CenturiesToMinutes.pdb
+D:\IT обучение\SoftUni\02_Programming Fundamentals\GitHub\Programming Fundamentals (Self-Prep)\DataTypesAndVariablesLab\CenturiesToMinutes\obj\Debug\CenturiesToMinutes.csprojResolveAssemblyReference.cache
+D:\IT обучение\SoftUni\02_Programming Fundamentals\GitHub\Programming Fundamentals (Self-Prep)\DataTypesAndVariablesLab\CenturiesToMinutes\obj\Debug\CenturiesToMinutes.csproj.CoreCompileInputs.cache
+D:\IT обучение\SoftUni\02_Programming Fundamentals\GitHub\Programming Fundamentals (Self-Prep)\DataTypesAndVariablesLab\CenturiesToMinutes\obj\Debug\CenturiesToMinutes.exe
+D:\IT обучение\SoftUni\02_Programming Fundamentals\GitHub\Programming Fundamentals (Self-Prep)\DataTypesAndVariablesLab\CenturiesToMinutes\obj\Debug\CenturiesToMinutes.pdb
